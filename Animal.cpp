@@ -15,3 +15,8 @@ void Animal::setPosition(double x, double y) {
     this->x=x;
     this->y=y;
 }
+
+void Animal::move(const double &x, const double &y) {
+    this->x = this->x+x;
+    this->y = this->y+y;
+}
