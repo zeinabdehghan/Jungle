@@ -9,3 +9,15 @@ Jungle::Jungle(int n) : totalFall(0) , index(0) {
         animals[i] = new Animal[1];
     }
 }
+
+int Jungle::getTotalFall() const {
+    return totalFall;
+}
+
+int Jungle::getNum() const {
+    return numberOfAnimals;
+}
+
+int Jungle::getIndex() const {
+    return index;
+}
