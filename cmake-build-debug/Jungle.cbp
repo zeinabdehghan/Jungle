@@ -92,6 +92,12 @@
 		<Unit filename="/cygdrive/d/Ocam  - Term 6/TA AP/HW5/Jungle/DomesticAnimal.h">
 			<Option target="Jungle"/>
 		</Unit>
+		<Unit filename="/cygdrive/d/Ocam  - Term 6/TA AP/HW5/Jungle/Jungle.cpp">
+			<Option target="Jungle"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Ocam  - Term 6/TA AP/HW5/Jungle/Jungle.h">
+			<Option target="Jungle"/>
+		</Unit>
 		<Unit filename="/cygdrive/d/Ocam  - Term 6/TA AP/HW5/Jungle/WildAnimal.cpp">
 			<Option target="Jungle"/>
 		</Unit>
