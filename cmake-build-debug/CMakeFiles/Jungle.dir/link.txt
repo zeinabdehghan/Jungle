@@ -1,1 +1,1 @@
-C:/cygwin64/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Jungle.dir/main.cpp.o CMakeFiles/Jungle.dir/Animal.cpp.o CMakeFiles/Jungle.dir/WildAnimal.cpp.o  -o Jungle.exe -Wl,--out-implib,libJungle.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+C:/cygwin64/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Jungle.dir/main.cpp.o CMakeFiles/Jungle.dir/Animal.cpp.o CMakeFiles/Jungle.dir/WildAnimal.cpp.o CMakeFiles/Jungle.dir/DomesticAnimal.cpp.o  -o Jungle.exe -Wl,--out-implib,libJungle.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

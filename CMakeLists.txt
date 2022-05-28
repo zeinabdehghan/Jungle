@@ -3,4 +3,4 @@ project(Jungle)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Jungle main.cpp Animal.cpp Animal.h WildAnimal.cpp WildAnimal.h)
+add_executable(Jungle main.cpp Animal.cpp Animal.h WildAnimal.cpp WildAnimal.h DomesticAnimal.cpp DomesticAnimal.h)
