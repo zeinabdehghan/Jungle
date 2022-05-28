@@ -14,6 +14,7 @@ public:
     void move(const double& x,const double& y);
     double getX() const;
     double getY() const;
+    bool isInPit(double x, double y , double r) const;
 };
 
 
