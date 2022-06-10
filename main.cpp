@@ -22,6 +22,17 @@ int main() {
 
     cout << bigjungle.getTotalFall();
 
-
+    int n2;
+    cin>>n2;
+    Jungle bigjungle2(n2);
+    for (int i = 0; i < n2/3; i++) {
+        bigjungle2.AddAnimal(new DomesticAnimal());
+        bigjungle2.AddAnimal(new WildAnimal());
+        bigjungle2.AddAnimal(new Pet());
+    }
+    for (int i = 0; i < 1000; i++){
+        bigjungle2.movement();
+    }
+    cout<< bigjungle2.getTotalFall();
 }
 
