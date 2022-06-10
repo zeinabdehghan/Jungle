@@ -1,8 +1,9 @@
 #include <iostream>
 #include "DomesticAnimal.h"
-
+using namespace std;
 DomesticAnimal::DomesticAnimal() : Animal(){}
 
 void DomesticAnimal::fall() {
-    std::cout << " **** Domestic Animal fell ****" << std::endl;
+
+    cout << " **** Domestic Animal fell ****";
 }
